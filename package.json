@@ -4,13 +4,13 @@
   "description": "noa pagina",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "*",
     "cloudinary": "^1.4.1",
-    "express-method-override": "^0.0.3",
+    "express-method-override": "*",
     "express": "*",
-    "jade": "^1.11.0",
-    "method-override": "^2.3.6",
-    "multer": "^1.2.0"
+    "jade": "*",
+    "method-override": "*",
+    "multer": "*"
   },
   "devDependencies": {},
   "scripts": {

@@ -16,9 +16,16 @@
   "scripts": {
     "start": "node app.js"
   },
-  "engines":{
+  "engines": {
     "node": "4.5.0"
   },
   "author": "Jonatan Gutierrez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "NoaMotorsWeb"
+  },
+  "keywords": [
+    "primera"
+  ]
 }

@@ -1,0 +1,58 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+img{ 
+	max-width: 112%; 
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+		margin-top: 50px;
+}
+.Orbitron{
+	font-family: 'Orbitron', cursive;
+}
+.sea-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.Medium{
+	font-size: 4em;
+}
+.Mediano{
+	font-size: 1.5em;
+}
+.arriba{
+	vertical-align: top;
+}
+.Rojo{
+	color: #DF0713;
+}
+
+.retraso-1{
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.a{
+	color: #BF1725;
+}
+.Espacio-Derecha{
+	margin-right: 1em;
+}
